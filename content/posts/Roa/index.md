@@ -3,6 +3,7 @@ title = 'Codeveloped indie game on Itch.io'
 date = 2024-12-20
 draft = false
 summary = "Contributing Unity rendering modifications, shaders, rope physics, procedural animation, and general support."
+tags = ['Game Development', 'Personal Project']
 
 +++
 ### Radiance Cascades

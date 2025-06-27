@@ -3,7 +3,7 @@ title = 'Currenet indie project, first person cozy nature game'
 date = 2024-12-20
 draft = false
 summary = "field bio field bio field bio."
-
+tags = ['Game Development', 'Personal Project']
 +++
 ### Radiance Cascades
 
