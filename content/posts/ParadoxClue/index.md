@@ -1,6 +1,6 @@
 +++
 title = 'Combination detective and heist puzzle game with "time travel"'
-date = 2024-12-20
+date = 2024-11-20
 draft = false
 summary = "Reduced game logic and time into simplified graph allowing reverting anything."
 tags = ['Game Development', 'University']

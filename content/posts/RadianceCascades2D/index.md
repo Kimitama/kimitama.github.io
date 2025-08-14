@@ -1,6 +1,6 @@
 +++
 title = 'Radiance Cascades 2D Graphics Course Project'
-date = 2025-06-26
+date = 2024-06-07
 draft = false
 summary = "2D Real Time Diffuse Global Illumination without Temporal Accumulation"
 tags = ['Graphics', 'University']

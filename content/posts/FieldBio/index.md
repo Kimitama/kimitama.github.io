@@ -1,6 +1,6 @@
 +++
 title = 'Current indie project, first person cozy nature game'
-date = 2024-12-20
+date = 2024-12-21
 draft = false
 summary = "WIP 3D open world game about nature and ecology, complex UI."
 tags = ['Game Development', 'Personal Project']
