@@ -7,6 +7,8 @@ tags = ['Game Development', 'Personal Project']
 +++
 Very work in progress, here is some current features. For the visuals, no assets are made by me, procedural animation and most shaders made by me.
 
+{{< zenmode-enabled >}}
+
 Custom water shader, grass shader, modified terrain shading.
 ![your image](grass.gif "Current WIP visuals.")
 The game has complex UIs, including tetris style inventory sytems with smooth spring based rotation animation, which is flexible and can be reused for multiple purporses, e.g. the shops. Also a journal with spring physics based tabs, the content of which gets automatically generated based on the data for collectables such as fish, the same data that is used to define the items in the inventory and the fish in the ponds.

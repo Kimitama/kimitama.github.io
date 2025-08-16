@@ -6,6 +6,7 @@ summary = "Recreating efficient 2D palette based renderer with dynamic shadows"
 tags = ['Graphics', 'Personal Project']
 
 +++
+{{< zenmode-enabled >}}
 A project to learn how rendering in Rain World works by recreating it in Unity, using Rain World Assets.
 Contains Rain Worlds palette rendering, shadowcasting, and dynamic lights, which were slowly added throughout a long period as I wanted to learn specific aspects of their renderer.
 

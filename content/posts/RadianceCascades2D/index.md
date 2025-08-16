@@ -6,6 +6,7 @@ summary = "2D Real Time Diffuse Global Illumination without Temporal Accumulatio
 tags = ['Graphics', 'University']
 
 +++
+{{< zenmode-enabled >}}
 
 Solo university project where we could implement a graphics technique of our choice, made with C++ and Vulkan.
 It is fully dynamic global illumination in 2D, where you can draw lights and walls with a brush.

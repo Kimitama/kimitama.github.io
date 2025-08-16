@@ -6,6 +6,8 @@ summary = "Dynamically regenerating the world when you aren't looking"
 tags = ['Game Development', 'University']
 
 +++
+{{< zenmode-enabled >}}
+
 During a Ludum Dare 48 hour comp I implemented the absolute minimum of the procedural generation algorithm, Wave Function Collapse being sinpired by townscaper.
 I used it to regenerate all tiles outside of the players view, meaning the entire world is always in flux.
 ![your image](qunatumcaves.gif "48 hour ludum dare game. Purple noise indicates it will be regenerated when you get closer. Notice terrain changes as you move back and forth.")

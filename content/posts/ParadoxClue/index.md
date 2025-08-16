@@ -6,6 +6,7 @@ summary = "Reduced game logic and time into simplified graph allowing reverting 
 tags = ['Game Development', 'University']
 
 +++
+{{< zenmode-enabled >}}
 University game project with a larger group in Godot with C# over 8 weeks. Everyone contributed to many aspects of the game, I list my main contributions here.
 
 My biggest contribution is the "time travel system", the game is about figuring out how a crime was carried out, by acting out the crime as the criminal.
