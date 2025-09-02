@@ -1,6 +1,6 @@
 +++
 title = 'Game Jams'
-date = 2024-12-21
+date = 2024-01-28
 draft = false
 summary = "Overview of selected game jams, all made in less than 72 hours, solo or in teams."
 tags = ['Game Development', 'Personal Project']
