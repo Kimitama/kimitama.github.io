@@ -28,3 +28,4 @@ Among other things tooling has been designed allowing every fish to have custom 
 
 
 Currently we are working on implementing wildlife, which will involve creature AI that performs routines in the ecosystem and react to other creatures or the player by fleeing.
+![your image](animation_tests.png "Animation test scene for the animation controller that is planned to be reused across all creatures. Scene gets dynamically created based on animation data, for testing future creatures.")

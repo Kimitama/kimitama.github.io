@@ -19,7 +19,18 @@ title = "Portfolio"
 #   email = "youremail@example.com"
    image = "pfp.jpg"
 #   imageQuality = 96
-   headline = "I'm only human"
+   headline = """
+   Passionate Game Developer with an MsC in Game Design & Technology, BsC in Software.
+
+   I have a strong foundation in software from university, and many independent game development projects including both collaborative and solo projects, 
+   where i have learned the fundamentals of every side of game development, including helping release a small paid game on Itch.io.
+
+   I specialized in graphics with a masters thesis is Screen-Space Global Illumination using Radiance Cascades. 
+   Though I also have experience in other technical game development topics, such as physics, tooling, dynamic audio and music, tech art, pathfinding, procedural generation, etc, from developing independent games and projects as a hobby and in university.   
+   
+   I hope to be able to contribute and help designers and artists create original games that require technology that is difficult with current technology, and to be able to contribute to the direction of the games I am working on.
+   
+   """
    bio = "A little bit about you"
    links = [
      { email = "mailto:migogmati@gmail.com" },
