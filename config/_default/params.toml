@@ -18,7 +18,7 @@ replyByEmail = false
 # robots = ""
 
 disableImageOptimization = false
-disableImageOptimizationMD = false
+disableImageOptimizationMD = true
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
