@@ -6,7 +6,7 @@ summary = "A game that had players walk more than a kilomter in real life."
 tags = ['Game Development', 'University']
 +++
 {{< zenmode-enabled >}}
-VR puzzle game with a large world, with the idea that you ahve to physically walk everywhere without any artificial movement options such as teleporting or joystick locomotion.
+VR puzzle game with a large world, with the idea that you have to physically walk everywhere without any artificial movement options such as teleporting or joystick locomotion.
 It worked succesfully, as we had playtesters who walked between 1-2km when playing the game, without getting lost or feeling like they had been walking too much.
 It is possible through making the game world non-euclidean using portals, meaning if a player is to walk in a circle in real life, they could end up in a different position in the game world.
 
